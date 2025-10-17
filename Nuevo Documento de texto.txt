@@ -1,0 +1,12 @@
+ <!DOCTYPE html>
+<HTML>
+  <head>
+    <title>jesus</title>
+  </head>
+  <body>
+    <div id="una capa">
+      <h1>Hola up</h1>
+      <p>Esta es mi primera practica en html</p>
+    </div>
+  </body>  
+</HTML>
