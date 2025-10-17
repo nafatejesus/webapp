@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main (){
+	int A,B,C;
+	cout<<"Ingrese primer numero"<<endl;
+	cin>>A;
+	cout<<"Ingrese segundo numero"<<endl;
+	cin>>B;
+	cout<<"Ingrese tercer numero"<<endl;
+	cin>>C;
+	if(A>B && B>C){
+		cout<<"Son descendente";
+	}
+	else{
+		cout<<"Son ascendente";
+	}
+}
